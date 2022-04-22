@@ -2,7 +2,7 @@
 
 # Welcome to Visiativ's organization on GitHub where we love all things open source.
 
-## What we are
+## Who we are
 
 Visiativ is a strategic partner who accelerates digital transformation of SMEs and micro-enterprises. We offer solutions that foster innovation, optimise customer/supplier relationships, and improve the exchange of information and knowledge.
 
